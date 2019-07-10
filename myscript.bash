@@ -1,2 +1,1 @@
-cd ..
-ls workspace -al
+ls -al
